@@ -1,0 +1,9 @@
+---
+title:
+- type: main
+  text: Texto plurilingüe para lenguas de Chile
+- type: Capítulo 1
+creator:
+- role: author
+  text: Stefanía Romero
+---
