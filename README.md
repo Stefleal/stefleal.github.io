@@ -2,15 +2,15 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-Bienvenido al repositorio del curso multilingüe de Lenguas en Chile. 
+Bienvenido al repositorio del curso multilingüe para algunas lenguas que cohabitan en Chile.  
 
 ## Descripción
 
-Este curso cubre contenido básico. Aprenderás:
+Este curso cubre contenido básico en tres lenguas: Mapudungún, Aymara y Kreyòl. Aprenderás:
 
-- [Saludos]
-- [Despedidas]
-- [Frases de cortesía]
+- Saludos
+- Despedidas
+- Frases de cortesía
 
 ## Contenido del Curso
 
