@@ -3,4 +3,5 @@
 En esta carpeta encontrarás algunos ejercicios para practicar el contenido.
 
 
-![ej1](https://github.com/Stefleal/stefleal.github.io/assets/168216314/b567722a-f441-4230-b478-0f616b61eb9b)
+
+![ej2](https://github.com/Stefleal/stefleal.github.io/assets/168216314/c13f81b8-1234-4109-b4ca-c37e09516a6e)
