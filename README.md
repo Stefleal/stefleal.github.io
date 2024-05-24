@@ -22,7 +22,7 @@
 
 El curso está dividido en cuatro módulos:
 
-1. [Presentación-reveal.js](https://github.com/Stefleal/stefleal.github.io/blob/fbe1e1e48d705eca4d92498d72bc0a9babf4f152/04-reveal.js/index.html)
+1. [Presentación-reveal.js](https://stefleal.github.io/blob/fbe1e1e48d705eca4d92498d72bc0a9babf4f152/04-reveal.js/index.html)
 2. [Ejercicios-PDF](https://github.com/Stefleal/stefleal.github.io/blob/7ea8b86d12ccfcf655b3ab5f3d3dae1de5147cbb/01-Ejercicios/Ejercicios-pluriling%C3%BCe.pdf)
 3. [Contenido-EPUB](https://github.com/Stefleal/stefleal.github.io/blob/4af6748d1ab2c3067744b1135846ca292a8b718b/02-Epub/milibro.epub)
 4. [Historia interactiva-Twine](https://github.com/Stefleal/stefleal.github.io/blob/b9b7c4d376613040622b0a4fd3379c5a2bb645bc/03-Twine/Madde%20viaja%20a%20Chile.html)
