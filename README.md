@@ -22,7 +22,7 @@
 
 El curso está dividido en los siguientes módulos:
 
-1. [Presentación](#04-Presentación)
+1. [Presentación](https://github.com/Stefleal/stefleal.github.io/blob/fbe1e1e48d705eca4d92498d72bc0a9babf4f152/04-reveal.js/index.html)
 2. [PDF](#módulo-1)
 3. [Ejercicios](#módulo-2)
 4. [EPUB](#conclusión)
