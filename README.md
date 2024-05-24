@@ -22,19 +22,14 @@
 
 El curso está dividido en los siguientes módulos:
 
-1. [Introducción](#introducción)
-2. [Módulo 1](#módulo-1)
-3. [Módulo 2](#módulo-2)
-4. [Conclusión](#conclusión)
+1. [Presentación](#04-Presentación)
+2. [PDF](#módulo-1)
+3. [Ejercicios](#módulo-2)
+4. [EPUB](#conclusión)
+5. [Autoevaluación](#Autoevaluación)
+6. [Conclusiones](#Conclusiones)
 
-Cada módulo contiene lecciones y ejercicios para ayudarte a comprender mejor los temas.
+Cada módulo contiene información, imágenes, css y más documentos para que puedas visualizar y replicar este curso.
 
-## Requisitos
-
-Para aprovechar al máximo este curso, necesitarás:
-
-- [Requisito 1]
-- [Requisito 2]
-- [Requisito 3]
-
+## ¡Que lo disfrutes! 🙂
 ---
