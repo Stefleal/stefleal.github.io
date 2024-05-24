@@ -4,7 +4,7 @@
 
 Bienvenido al repositorio del curso multilingüe para algunas lenguas que cohabitan en Chile. 
 
-<p style="text-align:center"> <img src ="https://images.unsplash.com/photo-1478827387698-1527781a4887?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Estructura" width="300"/>
+<p style="text-align:center"><img src ="https://images.unsplash.com/photo-1478827387698-1527781a4887?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Estructura" width="400"/>
  </p>
 
 
