@@ -48,107 +48,88 @@ Desde el español como lengua vehicular, se espera que los estudiantes reconozca
 
 ---
 
-## 2. EPUB
+## 3. EPUB
 
 ![Epub](https://images.unsplash.com/photo-1555631545-9dc21031669b?q=80&w=1384&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 ---
-Dentro del EPUB podrás encontrar el contenido que necesitas para realizar el curso.
 
-![ejemplo](img/)
+
+### Dentro del EPUB podrás encontrar el contenido que necesitas para realizar el curso.
+
+![ejemplo](img/ej1.png)
  
 
 
 ---
 
-## 3. Dativo
 
-![Ejemplo](images/ejemplo.jpg) 
+## 4. PDF
 
-
----
-
-Equivale al **complemento indirecto**.
-
-Se usa detrás de algunas preposiciones como:
-
-+ "Kvůli" por causa de 
-+ "Díky" gracias a
-+  En algunos verbos como:
-   +   Děkovat --> agradecer
-   +   Rozumět --> entender 
-   +   Věřit --> creer 
-
----
-
-## 4. Acusativo 
-
-![Directo](images/cd.png)
+![PDF](https://images.unsplash.com/photo-1553484771-371a605b060b?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 
 ---
 
-Equivale al **complemento directo**. La mayoría de los verbos llevan acusativo. 
-También se usa detrás de las preposiciones:
+### Dentro del PDF podrás encontrar ejericios que te servirán para practicar lo aprendido.
 
+![Ejemplo](img/ej2.png)
 
-+ "na" a, hacia
-+ "pro" para 
-+ "za" dentro de... un tiempo. 
-
----
-
-## 5. Vocativo
-
-![Vocativo](images/vocativo.jpg)
-
----
-
-Sólo se usa para llamar a las personas o a los animales. Es decir, **lo usamos cuando queremos que nos presten atención**. Es el más fácil de todos los casos y nunca va acompañado de preposición.
-
-Unos ejemplos:
-
-+ *Juane, podívej se na mě!* – ¡Juan, mírame!
-+ *Vaše Výsosti, vítáme Vás v Praze!* – ¡Su alteza, bienvenido a Praga!
-+ *Nino, sedni!* – ¡Nino, siéntate! 
-
----
-
-## 6. Locativo
-
-![Locación](images/letras3.jpg)
 
 ---
 
 
-Lo usamos siempre acompañado de una preposición. Lo usamos cuando indicamos un lugar, una posición estática (para una posición en movimiento no vale). 
-La preposiciones más comunes son: 
+## 5. Twine
 
+<p style="text-align:center"> <img src ="https://images.unsplash.com/photo-1588165114011-77ac8c2017f8?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Estructura" width="300"/>
+ </p>
 
-+ "v" en...un lugar 
-+ "na" sobre...un mueble...
-+ "o" acerca de
 
 ---
 
-## 7. Instrumental
 
-![Instrumento](images/instrumento.jpg)
+### Dentro del Twine podrás encontrar un ejemplo de las lenguas en uso.
+
+![Ejemplo](img/ej3.png)
+
 
 ---
 
-Lo utilizamos para indicar un modo o instrumento. También puede estar sin preposición. Sin preposición responde las preguntas: «¿por medio de quién?» o «¿por medio de qué?», en relación con el verbo.
+## 6. Autoevaluación
 
-Con preposición:
+![Autoevaluación](https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?q=80&w=1472&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
-+ "s" con 
 
-Ejemplo: *Pojedu s sestrou* (Iré con mi hermana).
+---
 
-Sin preposición:
 
-Ejemplo: *Jet vaklem* (en tren) Por medio de qué viajo.
+### En este apartado se realizó una autoevaluación respecto del curso realizado,  siguiendo la norma UNE 71362.
+
+![Ejemplo](img/ej4.png)
+
+#### El puntaje obtenido fue de 7.8, lo cual indica que aún se debe trabajar en el desarrollo de los cursos virtuales para crear un material de calidad.
+
+
+---
+
+## 7. Conclusiones
+
+![Conclusión](https://plus.unsplash.com/premium_photo-1661769599827-d3cb736e1da8?q=80&w=1653&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
+
+
+---
+
+
+<p style="text-align:center">
+Esta presentación abordó el trabajo que se realizó para la evaluación final de la asignatura de Producción de Materiales Educativos Digitales.
+Se abordó de modo somero el contenido, pues la finalidad es mostrar el uso de las variados formatos que se abordaron en este curso, tales como la generación de PDF e EPUB a partir de MARKDOWN.
+Del mismo modo, se pudo apreciar la creación de recursos didácticos como TWINE.
+Por último queda seguir trabajando para adquirir mayores competencias digitales y así desarrollar material que cumpla con todos los puntos que propone la norma UNE 71362.
+</p>
+
 
 --- 
+
 
 ## Gracias
