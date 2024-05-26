@@ -22,9 +22,9 @@ Aprenderás:
 
 El curso está dividido en cuatro módulos:
 
-1. [Presentación-reveal.js]
-2. [Ejercicios]
-3. [Contenido]
+1. [Presentación](04-reveal.js/index.html)
+2. [Ejercicios](01-Ejercicios/Ejercicios-plurilingüe.pdf)
+3. [Contenido](02-Epub/milibro.epub)
 4. [Ejemplificación]
 
 
