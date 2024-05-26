@@ -22,10 +22,10 @@ Aprenderás:
 
 El curso está dividido en cuatro módulos:
 
-1. [Presentación](stefleal.github.io/00-presentacion/index.html)
-2. [Contenido](01-contenido/milibro.epub)
-3. [Ejercicios](02-ejercicios/Ejercicios-plurilingüe.pdf). 
-4. [Ejemplificación](03-ejemplo/Maddeva.html)
+1. [Presentación](00-presentacion/README.md)
+2. [Contenido](01-contenido/README.md)
+3. [Ejercicios](02-ejercicios/README.md). 
+4. [Ejemplificación](03-ejemplo/README.md)
 
 
 Cada módulo contiene información, imágenes, css y más documentos para que puedas visualizar y replicar este curso.
