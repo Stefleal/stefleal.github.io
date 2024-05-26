@@ -22,10 +22,10 @@ Aprenderás:
 
 El curso está dividido en cuatro módulos:
 
-1. [Presentación](04-reveal.js/index.html)
-2. [Ejercicios](01-Ejercicios/Ejercicios-plurilingüe.pdf)
-3. [Contenido](02-Epub/milibro.epub)
-4. [Ejemplificación]
+1. [Presentación](stefleal.github.io/00-presentacion/index.html)
+2. [Contenido](01-contenido/milibro.epub)
+3. [Ejercicios](02-ejercicios/Ejercicios-plurilingüe.pdf). 
+4. [Ejemplificación](03-ejemplo/Maddeva.html)
 
 
 Cada módulo contiene información, imágenes, css y más documentos para que puedas visualizar y replicar este curso.
